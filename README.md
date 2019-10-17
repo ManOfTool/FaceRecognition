@@ -1,2 +1,2 @@
 # FaceRecognition
-A simple face recognition implement with face_recognition
+A simple face recognition implement with ageitgey/face_recognition
